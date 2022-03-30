@@ -7,28 +7,24 @@
 
  <br/>
 
- # Representações visuais 
 
-### Arquitetura de código Limpo
+# Arquitetura de código Limpo
 #### Divisão das camadas e responsabilidades
   
-  
-* domain / entities <br/>
-    - regras de negócio empresarial 
+* <strong>domain / entities</strong>  - regras de negócio empresarial 
        
-
-* use cases <br/>
-    - regras de negócio da aplicação
+* <strong>use cases</strong> - regras de negócio da aplicação
 
 
-* controllers <br/>
-    - adaptadores de interface
+* <strong>controllers </strong> - adaptadores de interface
 
-* devices <br/>
-    - frameworks e devices
+* <strong>devices / interface</strong> - frameworks e devices
 
 <br/>
 
+ ###  Representações visuais 
+
+<br/>
  <img src="/image/clear-code-structure.jpg" style="display: inline-block; margin: 0 auto;"> 
 
  <br/>
